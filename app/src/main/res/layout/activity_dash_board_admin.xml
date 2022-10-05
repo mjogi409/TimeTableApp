@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DashBoardAdminActivity">
+
+    <include
+        layout="@layout/activity_topbar2" />
+
+    <LinearLayout
+        android:layout_width="346dp"
+        android:layout_height="512dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="9"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.492"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.844">
+
+        <ImageView
+            android:id="@+id/imageView15"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/adduser"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="200dp" />
+
+        <ImageView
+            android:id="@+id/removeuser"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/removeuser"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="257dp" />
+
+        <ImageView
+            android:id="@+id/updateuser_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            app:srcCompat="@drawable/updateuser"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="312dp" />
+
+        <ImageView
+            android:id="@+id/timetable_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/timetable"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="369dp" />
+
+        <ImageView
+            android:id="@+id/imageView23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/acadcal"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="478dp" />
+
+        <ImageView
+            android:id="@+id/imageView24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/ettbut"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="423dp" />
+
+        <ImageView
+            android:id="@+id/imageView26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/notificationsbut"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="530dp" />
+
+        <ImageView
+            android:id="@+id/imageView27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/searchuser"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="585dp" />
+
+        <ImageView
+            android:id="@+id/imageView28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:padding="5dp"
+            app:srcCompat="@drawable/classbut"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="637dp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

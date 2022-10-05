@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".TimeTableAddActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+
+        app:layout_constraintVertical_bias="1.0">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Spinner
+                android:id="@+id/spin_week"
+                android:layout_width="406dp"
+                android:layout_height="52dp"
+                android:layout_marginTop="25dp"
+                android:entries="@array/week" />
+
+            <Spinner
+                android:id="@+id/spin_slot"
+                android:layout_width="406dp"
+                android:layout_height="52dp"
+                android:layout_marginTop="25dp"
+                android:entries="@array/slot" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/subject"
+
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:hint="Subject Name">
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/subject_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:layout_editor_absoluteX="37dp"
+                    tools:layout_editor_absoluteY="334dp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <TextView
+                    android:id="@+id/timefrom_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="0:00"
+                    android:textColor="@color/black"
+                    android:textSize="28sp" />
+
+                <TextView
+                    android:id="@+id/timeto_text"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:text="0:00"
+                    android:textColor="@color/black"
+                    android:textSize="28sp" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <ImageView
+                    android:id="@+id/timefrom"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/timefrom" />
+
+                <ImageView
+                    android:id="@+id/timeto"
+                    android:layout_width="wrap_content"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    app:srcCompat="@drawable/timeto" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/duration"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="0 hr 0 min"
+                android:textSize="18sp" />
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/classroom"
+
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:hint="Classroom">
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/classroom_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:layout_editor_absoluteX="37dp"
+                    tools:layout_editor_absoluteY="334dp" />
+            </com.google.android.material.textfield.TextInputLayout>
+            <Spinner
+                android:id="@+id/spin_class"
+                android:layout_width="406dp"
+                android:layout_height="52dp"
+                android:layout_marginTop="25dp" />
+            <Spinner
+                android:id="@+id/spin_faculty"
+                android:layout_width="406dp"
+                android:layout_height="52dp"
+                android:layout_marginTop="25dp" />
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/googlelink"
+
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:hint="google docs link for course content">
+
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/googlelink_edit_text"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    tools:layout_editor_absoluteX="37dp"
+                    tools:layout_editor_absoluteY="334dp" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <ImageView
+                android:id="@+id/addtimetable_btn"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                app:srcCompat="@drawable/adduserbut" />
+        </LinearLayout>
+
+    </ScrollView>
+</LinearLayout>

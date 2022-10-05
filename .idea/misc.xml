@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/acitivity_list_view.xml" value="0.22521367521367522" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_aboutus.xml" value="0.264" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_add_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_dash_board.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_dash_board_admin.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_ett.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_exam.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_faculty_list_update.xml" value="0.264" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_fri.xml" value="0.2" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_fri2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_info01.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_info02.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_info03.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_info04.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_login.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_main.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_mon.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_notification.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_remove_user.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_seeactivity.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_semester.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_settings.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_sign_in.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_splash.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_student.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_tcie1.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_tcie2.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_thur.xml" value="0.2" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_thur2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_time_table_add.xml" value="0.2604166666666667" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_time_table_add_factivity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_time_table_admin.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_time_table_remove.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_time_table_remove_factivity.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_topbar.xml" value="0.2734375" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_topbar2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_tue.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_tue2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_update_faculty.xml" value="0.2" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_update_student.xml" value="0.176" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_update_user.xml" value="0.2" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_view.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_wed.xml" value="0.2734375" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_wed2.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/activity_week.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/fragment_top.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/layout_thur.xml" value="0.27447916666666666" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/layout/list_item.xml" value="0.176" />
+        <entry key="..\:/Users/Malay Jogi/AndroidStudioProjects/GoogleSignin/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.137" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
