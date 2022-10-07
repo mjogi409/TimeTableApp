@@ -112,7 +112,7 @@ The class will consist of students
 Each class will have its own timetable.
 
 
-#Functional Requirements
+# Functional Requirements
 1)Firebase Authentication (Login)
 The app will have the authentication of google one tap sign in , in which the user will have to choose the their account to login. The authentication will verify from the database whether he is admin/faculty/student.
 The Admin will register user using the feature/Functionality of add user and then the student/faculty will have the rights to access the app’s features.
